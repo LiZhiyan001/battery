@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 说明：本 App 未使用 FileProvider 的 paths 之外的路径，保持最小暴露面 -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-files-path name="logs" path="logs/" />
+    <files-path name="files_logs" path="logs/" />
+</paths>
